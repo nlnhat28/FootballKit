@@ -9,6 +9,7 @@ using System.Globalization;
 using System.IO;
 using System.Text.RegularExpressions;
 using System.Threading;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 using Timer = System.Threading.Timer;
 
@@ -93,7 +94,6 @@ namespace FootballKit1
 
                 ckbShowNotify1.Checked = appData.isShowNotify;
                 appData.font = appData.font ?? Default.fontIcielCubano16;
-
                 try
                 {
                     accessFolderWhenStart(appData.lastFolderPath);
@@ -101,9 +101,13 @@ namespace FootballKit1
                 catch { };
 
                 AppDataController.appData = appData;
-            }
+            }   
             catch { };
-            // ACS
+              
+            // Weather
+            WeatherController.getListCitiesFromJson();
+
+            // ACS  
             try
             {
                 ACSList.loadAllACSs();
@@ -4063,7 +4067,7 @@ namespace FootballKit1
             if (cOFD.ShowDialog() == CommonFileDialogResult.Ok)
             {
                 txbOldAppDataFolderPath.Text = cOFD.FileName;
-                //btnCopyAppDataFolder.Enabled = true;
+                btnCopyAppDataFolder.Enabled = true;
             }
         }
         private void loadNewAppDataFolderPath()
@@ -4094,8 +4098,8 @@ namespace FootballKit1
                 }
                 else
                 {
-                    //txbOldAppDataFolderPath.Text = "Đã có thư mục AppData. Không cần Copy!";
-                    //btnCopyAppDataFolder.Enabled = false;
+                    txbOldAppDataFolderPath.Text = "Đã có thư mục AppData. Không cần Copy!";
+                    btnCopyAppDataFolder.Enabled = false;
                 }
             }
             catch { }
@@ -4136,7 +4140,7 @@ namespace FootballKit1
                     updateNewAppData();
                     MessageBox.Show("Đã copy thư mục AppData sang thư mục mới.",
                         "Thành công", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    //btnCopyAppDataFolder.Enabled = false;
+                    btnCopyAppDataFolder.Enabled = false;
                 }
                 else
                 {

@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 using System.Net.Http;
 using System.Net;
 using Newtonsoft.Json;
+using System.Collections.Generic;
+using System.Linq;
+
 namespace FootballKit1
 {
     public partial class fThoiTiet : Form
@@ -28,6 +31,24 @@ namespace FootballKit1
             txbThoiTiet.Text = oldContent;
             txbThoiTiet.SelectionStart = txbThoiTiet.Text.Length;
 
+            getWeatherImages();
+            loadCbbCity();
+        }
+        private void loadCbbCity()
+        {
+            cbbCity.DataSource = WeatherController.listTitles;
+            try
+            {
+                cbbCity.SelectedIndex = WeatherController.cbbCityId;
+            }
+            catch { }       
+            cbbCity.AutoCompleteSource = AutoCompleteSource.CustomSource;
+            cbbCity.AutoCompleteCustomSource = new AutoCompleteStringCollection();
+            cbbCity.AutoCompleteCustomSource.AddRange(WeatherController.listTitles.ToArray());
+            cbbCity.AutoCompleteMode = AutoCompleteMode.SuggestAppend;
+        }
+        private void getWeatherImages()
+        {
             try
             {
                 foreach (PictureBox ptb in tlpWeatherImage.Controls)
@@ -44,9 +65,11 @@ namespace FootballKit1
                     catch { }
                 }
             }
-            catch
-            { }
+            catch { }
         }
+        //
+        // Close Form
+        //
         private void fNote_FormClosing(object sender, FormClosingEventArgs e)
         {
             newContent = txbThoiTiet.Text;
@@ -95,100 +118,113 @@ namespace FootballKit1
         //
         // Xem thời tiết
         //
-        private async void btnXemThoiTiet_Click(object sender, EventArgs e)
+        private async Task getWeatherData()
         {
             double latitude = 0;
             double longitude = 0;
             bool isDefaultLonLat = false;
-            string city = null;
 
-            try
+            if (cbbCity.SelectedIndex >= 0)
             {
-                string urlLocation1 = $"http://ip-api.com/json/?fields=61439";
+                int id = cbbCity.SelectedIndex;
+                City city = WeatherController.listCities[id];
 
-                var clientLocation1 = new HttpClient();
+                latitude = city.coord.lat;
+                longitude = city.coord.lon;
 
-                // Set a timeout of ... seconds
-                clientLocation1.Timeout = TimeSpan.FromSeconds(10);
+                AppDataController.appData.idCity = city.id;
+                WeatherController.cbbCityId = id;
 
-                var response1 = await clientLocation1.GetAsync(urlLocation1);
-                var responseBody1 = await response1.Content.ReadAsStringAsync();
-
-                if (response1.IsSuccessStatusCode)
-                {
-                    var dataLocation = Newtonsoft.Json.JsonConvert.DeserializeObject<dynamic>(responseBody1);
-                    latitude = dataLocation.lat;
-                    longitude = dataLocation.lon;
-                    city = dataLocation.city;
-                }
-                else
-                {
-                    try
-                    {
-                        string urlIp = "http://ipinfo.io/ip";
-                        string ipAddress;
-
-                        using (WebClient clientIp = new WebClient())
-                        {
-                            ipAddress = clientIp.DownloadString(urlIp);
-                        }
-
-                        string urlLocation2 = $"https://api.apilayer.com/ip_to_location/{ipAddress}";
-                        var apiKeyLocation = API.apiKeyLocation;
-
-                        var clientLocation2 = new HttpClient();
-                        clientLocation2.DefaultRequestHeaders.Add("apikey", apiKeyLocation);
-
-                        // Set a timeout of ... seconds
-                        clientLocation2.Timeout = TimeSpan.FromSeconds(10);
-
-                        var response2 = await clientLocation2.GetAsync(urlLocation2);
-                        var responseBody2 = await response2.Content.ReadAsStringAsync();
-
-                        if (response2.IsSuccessStatusCode)
-                        {
-                            var dataLocation = Newtonsoft.Json.JsonConvert.DeserializeObject<dynamic>(responseBody2);
-                            latitude = dataLocation.latitude;
-                            longitude = dataLocation.longitude;
-                            city = dataLocation.city;
-                        }
-                    }
-                    catch { }
-                }
             }
-            catch
-            {
-                try
-                {
-                    string urlIp = "http://ipinfo.io/ip";
-                    string ipAddress;
+            //string city = null;
 
-                    using (WebClient clientIp = new WebClient())
-                    {
-                        ipAddress = clientIp.DownloadString(urlIp);
-                    }
+            //try
+            //{
+            //    string urlLocation1 = $"http://ip-api.com/json/?fields=61439";
 
-                    string urlLocation2 = $"https://api.apilayer.com/ip_to_location/{ipAddress}";
-                    var apiKeyLocation = API.apiKeyLocation;
+            //    var clientLocation1 = new HttpClient();
 
-                    var clientLocation2 = new HttpClient();
-                    clientLocation2.DefaultRequestHeaders.Add("apikey", apiKeyLocation);
+            //    // Set a timeout of ... seconds
+            //    clientLocation1.Timeout = TimeSpan.FromSeconds(10);
 
-                    // Set a timeout of ... seconds
-                    clientLocation2.Timeout = TimeSpan.FromSeconds(10);
+            //    var response1 = await clientLocation1.GetAsync(urlLocation1);
+            //    var responseBody1 = await response1.Content.ReadAsStringAsync();
 
-                    var response2 = await clientLocation2.GetAsync(urlLocation2);
-                    var responseBody2 = await response2.Content.ReadAsStringAsync();
+            //    if (response1.IsSuccessStatusCode)
+            //    {
+            //        var dataLocation = Newtonsoft.Json.JsonConvert.DeserializeObject<dynamic>(responseBody1);
+            //        latitude = dataLocation.lat;
+            //        longitude = dataLocation.lon;
+            //        city = dataLocation.city;
+            //    }
+            //    else
+            //    {
+            //        try
+            //        {
+            //            string urlIp = "http://ipinfo.io/ip";
+            //            string ipAddress;
 
-                    if (response2.IsSuccessStatusCode)
-                    {
-                        var dataLocation = Newtonsoft.Json.JsonConvert.DeserializeObject<dynamic>(responseBody2);
-                        latitude = dataLocation.latitude;
-                        longitude = dataLocation.longitude;
-                    }
-                }
-                catch { }
-            }
+            //            using (WebClient clientIp = new WebClient())
+            //            {
+            //                ipAddress = clientIp.DownloadString(urlIp);
+            //            }
+
+            //            string urlLocation2 = $"https://api.apilayer.com/ip_to_location/{ipAddress}";
+            //            var apiKeyLocation = API.apiKeyLocation;
+
+            //            var clientLocation2 = new HttpClient();
+            //            clientLocation2.DefaultRequestHeaders.Add("apikey", apiKeyLocation);
+
+            //            // Set a timeout of ... seconds
+            //            clientLocation2.Timeout = TimeSpan.FromSeconds(10);
+
+            //            var response2 = await clientLocation2.GetAsync(urlLocation2);
+            //            var responseBody2 = await response2.Content.ReadAsStringAsync();
+
+            //            if (response2.IsSuccessStatusCode)
+            //            {
+            //                var dataLocation = Newtonsoft.Json.JsonConvert.DeserializeObject<dynamic>(responseBody2);
+            //                latitude = dataLocation.latitude;
+            //                longitude = dataLocation.longitude;
+            //                city = dataLocation.city;
+            //            }
+            //        }
+            //        catch { }
+            //    }
+            //}
+            //catch
+            //{
+            //    try
+            //    {
+            //        string urlIp = "http://ipinfo.io/ip";
+            //        string ipAddress;
+
+            //        using (WebClient clientIp = new WebClient())
+            //        {
+            //            ipAddress = clientIp.DownloadString(urlIp);
+            //        }
+
+            //        string urlLocation2 = $"https://api.apilayer.com/ip_to_location/{ipAddress}";
+            //        var apiKeyLocation = API.apiKeyLocation;
+
+            //        var clientLocation2 = new HttpClient();
+            //        clientLocation2.DefaultRequestHeaders.Add("apikey", apiKeyLocation);
+
+            //        // Set a timeout of ... seconds
+            //        clientLocation2.Timeout = TimeSpan.FromSeconds(10);
+
+            //        var response2 = await clientLocation2.GetAsync(urlLocation2);
+            //        var responseBody2 = await response2.Content.ReadAsStringAsync();
+
+            //        if (response2.IsSuccessStatusCode)
+            //        {
+            //            var dataLocation = Newtonsoft.Json.JsonConvert.DeserializeObject<dynamic>(responseBody2);
+            //            latitude = dataLocation.latitude;
+            //            longitude = dataLocation.longitude;
+            //        }
+            //    }
+            //    catch { }
+            //}
 
             if ((int)latitude == 0 || (int)latitude == 0)
             {
@@ -219,12 +255,12 @@ namespace FootballKit1
                     //txbThoiTiet.Text += $"Địa điểm: {weatherData.Name}" + "\r\n";
                     if (txbThoiTiet.Text == string.Empty
                         || txbThoiTiet.Text.EndsWith("\r\n")
-                        || txbThoiTiet.Text.EndsWith(". ") )
+                        || txbThoiTiet.Text.EndsWith(". "))
                     { }
                     else
                     {
                         txbThoiTiet.Text = txbThoiTiet.Text.TrimEnd();
-                        if (txbThoiTiet.Text.EndsWith(".") 
+                        if (txbThoiTiet.Text.EndsWith(".")
                             || txbThoiTiet.Text.EndsWith(",")
                             || txbThoiTiet.Text.EndsWith(";")
                             || txbThoiTiet.Text.EndsWith(":"))
@@ -241,16 +277,16 @@ namespace FootballKit1
                     //if (des != string.Empty) des = char.ToUpper(des[0]) + des.Substring(1);
                     //txbThoiTiet.Text += $"{des}. ";
 
-                    txbThoiTiet.Text += $"Nhiệt độ: {Math.Round(weatherData.Main.Temp, 1)}°C. ";
-                    txbThoiTiet.Text += $"Sức gió: {Math.Round(weatherData.Wind.Speed * 3.6)}km/h. ";
-                    txbThoiTiet.Text += $"Mây: {weatherData.Clouds.All}%. ";
-                    txbThoiTiet.Text += $"Độ ẩm: {weatherData.Main.Humidity}% ";
-                    city = city ?? "(Hưng Yên)";
-                    txbThoiTiet.Text += $"({city}). ";
+                    txbThoiTiet.Text += $"Nhiệt độ: {Math.Round(weatherData.main.temp, 1)}°C. ";
+                    txbThoiTiet.Text += $"Sức gió: {Math.Round(weatherData.wind.speed * 3.6)}km/h. ";
+                    txbThoiTiet.Text += $"Mây: {weatherData.clouds.all}%. ";
+                    txbThoiTiet.Text += $"Độ ẩm: {weatherData.main.humidity}%. ";
+                    //city = city ?? "(Hưng Yên)";
+                    //txbThoiTiet.Text += $"({weatherData.name}). ";
 
                     if (isDefaultLonLat)
-                        MessageBox.Show("Không xác định được vị trí chính xác của thiết bị.\nVị trí được thiết lập mặc định là TP.Hưng Yên",
-                        "Vị trí có thể sai lệch", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        MessageBox.Show("Chỉ xem được thành phố trong danh sách. Vị trí được thiết lập mặc định là TP.Hưng Yên",
+                        "Lỗi dữ liệu", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 }
                 else
                 {
@@ -262,6 +298,20 @@ namespace FootballKit1
             {
                 MessageBox.Show("Vui lòng thử lại sau.",
                      "Lỗi kết nối", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+        private async void btnXemThoiTiet_Click(object sender, EventArgs e)
+        {
+            await getWeatherData();
+        }
+        private async void cbbCity_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                e.Handled = true;
+                e.SuppressKeyPress = true;
+
+                await getWeatherData();
             }
         }
         //
@@ -326,6 +376,5 @@ namespace FootballKit1
             }
             catch { }
         }
-        
     }
 }

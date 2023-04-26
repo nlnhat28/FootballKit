@@ -13,5 +13,6 @@ namespace FootballKit1
         public string lastFolderPath { get; set; }
         public bool isShowNotify { get; set; } = true;
         public Font font { get; set; } = Default.fontIcielCubano16;
+        public int idCity { get; set; } = 47;
     }
 }

@@ -3601,7 +3601,7 @@
     <value>NoControl</value>
   </data>
   <data name="btnCapNhatPhienBan.Location" type="System.Drawing.Point, System.Drawing">
-    <value>750, 60</value>
+    <value>750, 61</value>
   </data>
   <data name="btnCapNhatPhienBan.Size" type="System.Drawing.Size, System.Drawing">
     <value>10, 54</value>
@@ -3646,7 +3646,7 @@
     <value>NoControl</value>
   </data>
   <data name="ckbTachDuongDan.Location" type="System.Drawing.Point, System.Drawing">
-    <value>533, 124</value>
+    <value>533, 125</value>
   </data>
   <data name="ckbTachDuongDan.Size" type="System.Drawing.Size, System.Drawing">
     <value>15, 14</value>
@@ -3679,7 +3679,7 @@
     <value>NoControl</value>
   </data>
   <data name="label72.Location" type="System.Drawing.Point, System.Drawing">
-    <value>15, 91</value>
+    <value>15, 92</value>
   </data>
   <data name="label72.Size" type="System.Drawing.Size, System.Drawing">
     <value>46, 23</value>
@@ -3715,7 +3715,7 @@
     <value>NoControl</value>
   </data>
   <data name="label70.Location" type="System.Drawing.Point, System.Drawing">
-    <value>15, 93</value>
+    <value>15, 94</value>
   </data>
   <data name="label70.Size" type="System.Drawing.Size, System.Drawing">
     <value>46, 23</value>
@@ -3754,7 +3754,7 @@
     <value>NoControl</value>
   </data>
   <data name="ckbShowNotify1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 45</value>
+    <value>7, 26</value>
   </data>
   <data name="ckbShowNotify1.Size" type="System.Drawing.Size, System.Drawing">
     <value>142, 27</value>
@@ -3793,7 +3793,7 @@
     <value>NoControl</value>
   </data>
   <data name="btnCalcWinRate.Location" type="System.Drawing.Point, System.Drawing">
-    <value>11, 121</value>
+    <value>11, 123</value>
   </data>
   <data name="btnCalcWinRate.Size" type="System.Drawing.Size, System.Drawing">
     <value>86, 32</value>
@@ -3826,7 +3826,7 @@
     <value>NoControl</value>
   </data>
   <data name="ptbUnlock1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>231, 38</value>
+    <value>231, 39</value>
   </data>
   <data name="ptbUnlock1.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 38</value>
@@ -3859,7 +3859,7 @@
     <value>NoControl</value>
   </data>
   <data name="ptbLock1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>231, 38</value>
+    <value>231, 39</value>
   </data>
   <data name="ptbLock1.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 38</value>
@@ -3895,7 +3895,7 @@
     <value>NoControl</value>
   </data>
   <data name="ptbUpdateTime.Location" type="System.Drawing.Point, System.Drawing">
-    <value>194, 40</value>
+    <value>194, 41</value>
   </data>
   <data name="ptbUpdateTime.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 38</value>
@@ -3928,7 +3928,7 @@
     <value>NoControl</value>
   </data>
   <data name="ptbUpdateTimeOff.Location" type="System.Drawing.Point, System.Drawing">
-    <value>194, 40</value>
+    <value>194, 41</value>
   </data>
   <data name="ptbUpdateTimeOff.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 38</value>
@@ -4096,7 +4096,7 @@
     <value>NoControl</value>
   </data>
   <data name="ptbExpandNote.Location" type="System.Drawing.Point, System.Drawing">
-    <value>235, 54</value>
+    <value>235, 55</value>
   </data>
   <data name="ptbExpandNote.Size" type="System.Drawing.Size, System.Drawing">
     <value>32, 30</value>
@@ -4129,7 +4129,7 @@
     <value>NoControl</value>
   </data>
   <data name="ptbChonDuongDan1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>521, 81</value>
+    <value>521, 82</value>
   </data>
   <data name="ptbChonDuongDan1.Size" type="System.Drawing.Size, System.Drawing">
     <value>38, 30</value>
@@ -4183,7 +4183,7 @@
     <value>NoControl</value>
   </data>
   <data name="ptbGoiYTen1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>521, 45</value>
+    <value>521, 46</value>
   </data>
   <data name="ptbGoiYTen1.Size" type="System.Drawing.Size, System.Drawing">
     <value>38, 30</value>
@@ -5032,7 +5032,7 @@
     <value>NoControl</value>
   </data>
   <data name="btnChonAppDataCu.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 12</value>
+    <value>4, 56</value>
   </data>
   <data name="btnChonAppDataCu.Size" type="System.Drawing.Size, System.Drawing">
     <value>128, 27</value>
@@ -5083,7 +5083,7 @@
     <value>NoControl</value>
   </data>
   <data name="btnDanhSachACS.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 39</value>
+    <value>4, 19</value>
   </data>
   <data name="btnDanhSachACS.Size" type="System.Drawing.Size, System.Drawing">
     <value>133, 36</value>
@@ -5110,7 +5110,7 @@
     <value>18, 29</value>
   </data>
   <data name="panel22.Size" type="System.Drawing.Size, System.Drawing">
-    <value>545, 115</value>
+    <value>545, 74</value>
   </data>
   <data name="panel22.TabIndex" type="System.Int32, mscorlib">
     <value>23</value>
@@ -5188,13 +5188,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox36.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 518</value>
+    <value>5, 611</value>
   </data>
   <data name="groupBox36.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox36.Size" type="System.Drawing.Size, System.Drawing">
-    <value>582, 161</value>
+    <value>582, 120</value>
   </data>
   <data name="groupBox36.TabIndex" type="System.Int32, mscorlib">
     <value>22</value>
@@ -5233,7 +5233,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbTen.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 46</value>
+    <value>3, 47</value>
   </data>
   <data name="lbTen.Size" type="System.Drawing.Size, System.Drawing">
     <value>129, 23</value>
@@ -5266,16 +5266,16 @@
     <value>NoControl</value>
   </data>
   <data name="lbNgayPhatHanh.Location" type="System.Drawing.Point, System.Drawing">
-    <value>307, 46</value>
+    <value>307, 47</value>
   </data>
   <data name="lbNgayPhatHanh.Size" type="System.Drawing.Size, System.Drawing">
-    <value>225, 23</value>
+    <value>227, 23</value>
   </data>
   <data name="lbNgayPhatHanh.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
   </data>
   <data name="lbNgayPhatHanh.Text" xml:space="preserve">
-    <value>Ngày phát hành: xx/05/2023</value>
+    <value>Ngày phát hành: 26/04/2023</value>
   </data>
   <data name="&gt;&gt;lbNgayPhatHanh.Name" xml:space="preserve">
     <value>lbNgayPhatHanh</value>
@@ -5299,7 +5299,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbPhienBan.Location" type="System.Drawing.Point, System.Drawing">
-    <value>144, 46</value>
+    <value>144, 47</value>
   </data>
   <data name="lbPhienBan.Size" type="System.Drawing.Size, System.Drawing">
     <value>119, 23</value>
@@ -5308,7 +5308,7 @@
     <value>13</value>
   </data>
   <data name="lbPhienBan.Text" xml:space="preserve">
-    <value>Phiên bản: 4.1</value>
+    <value>Phiên bản: 4.2</value>
   </data>
   <data name="&gt;&gt;lbPhienBan.Name" xml:space="preserve">
     <value>lbPhienBan</value>
@@ -5329,7 +5329,7 @@
     <value>1</value>
   </data>
   <data name="tableLayoutPanel13.Size" type="System.Drawing.Size, System.Drawing">
-    <value>545, 116</value>
+    <value>545, 118</value>
   </data>
   <data name="tableLayoutPanel13.TabIndex" type="System.Int32, mscorlib">
     <value>21</value>
@@ -5389,7 +5389,7 @@
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>582, 161</value>
+    <value>582, 163</value>
   </data>
   <data name="groupBox3.TabIndex" type="System.Int32, mscorlib">
     <value>21</value>
@@ -5476,7 +5476,7 @@
     <value>1</value>
   </data>
   <data name="pnlThuNho.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 21</value>
+    <value>7, 22</value>
   </data>
   <data name="pnlThuNho.Size" type="System.Drawing.Size, System.Drawing">
     <value>59, 80</value>
@@ -5557,7 +5557,7 @@
     <value>1</value>
   </data>
   <data name="pnlThuVua.Location" type="System.Drawing.Point, System.Drawing">
-    <value>162, 21</value>
+    <value>162, 22</value>
   </data>
   <data name="pnlThuVua.Size" type="System.Drawing.Size, System.Drawing">
     <value>59, 80</value>
@@ -5638,7 +5638,7 @@
     <value>1</value>
   </data>
   <data name="pnlThuRong.Location" type="System.Drawing.Point, System.Drawing">
-    <value>317, 21</value>
+    <value>317, 22</value>
   </data>
   <data name="pnlThuRong.Size" type="System.Drawing.Size, System.Drawing">
     <value>59, 80</value>
@@ -5662,7 +5662,7 @@
     <value>18, 29</value>
   </data>
   <data name="panel8.Size" type="System.Drawing.Size, System.Drawing">
-    <value>545, 115</value>
+    <value>545, 117</value>
   </data>
   <data name="panel8.TabIndex" type="System.Int32, mscorlib">
     <value>23</value>
@@ -5740,13 +5740,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox27.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 347</value>
+    <value>5, 438</value>
   </data>
   <data name="groupBox27.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox27.Size" type="System.Drawing.Size, System.Drawing">
-    <value>582, 161</value>
+    <value>582, 163</value>
   </data>
   <data name="groupBox27.TabIndex" type="System.Int32, mscorlib">
     <value>23</value>
@@ -5785,7 +5785,7 @@
     <value>NoControl</value>
   </data>
   <data name="label22.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 53</value>
+    <value>3, 97</value>
   </data>
   <data name="label22.Size" type="System.Drawing.Size, System.Drawing">
     <value>88, 19</value>
@@ -5818,10 +5818,10 @@
     <value>NoControl</value>
   </data>
   <data name="btnCopyAppDataFolder.Location" type="System.Drawing.Point, System.Drawing">
-    <value>138, 80</value>
+    <value>138, 124</value>
   </data>
   <data name="btnCopyAppDataFolder.Size" type="System.Drawing.Size, System.Drawing">
-    <value>105, 32</value>
+    <value>98, 33</value>
   </data>
   <data name="btnCopyAppDataFolder.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -5848,7 +5848,7 @@
     <value>Roboto Condensed, 12pt, style=Bold</value>
   </data>
   <data name="txbNewAppDataFolderPath.Location" type="System.Drawing.Point, System.Drawing">
-    <value>138, 45</value>
+    <value>138, 89</value>
   </data>
   <data name="txbNewAppDataFolderPath.Size" type="System.Drawing.Size, System.Drawing">
     <value>396, 27</value>
@@ -5875,7 +5875,7 @@
     <value>Roboto Condensed, 12pt, style=Bold</value>
   </data>
   <data name="txbOldAppDataFolderPath.Location" type="System.Drawing.Point, System.Drawing">
-    <value>138, 12</value>
+    <value>138, 56</value>
   </data>
   <data name="txbOldAppDataFolderPath.Size" type="System.Drawing.Size, System.Drawing">
     <value>396, 27</value>
@@ -5899,7 +5899,7 @@
     <value>18, 29</value>
   </data>
   <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>545, 114</value>
+    <value>545, 203</value>
   </data>
   <data name="panel2.TabIndex" type="System.Int32, mscorlib">
     <value>23</value>
@@ -5977,13 +5977,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox28.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 176</value>
+    <value>5, 178</value>
   </data>
   <data name="groupBox28.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox28.Size" type="System.Drawing.Size, System.Drawing">
-    <value>582, 161</value>
+    <value>582, 250</value>
   </data>
   <data name="groupBox28.TabIndex" type="System.Int32, mscorlib">
     <value>25</value>
@@ -6013,7 +6013,7 @@
     <value>18, 29</value>
   </data>
   <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>545, 115</value>
+    <value>545, 76</value>
   </data>
   <data name="panel1.TabIndex" type="System.Int32, mscorlib">
     <value>23</value>
@@ -6091,13 +6091,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 689</value>
+    <value>5, 741</value>
   </data>
   <data name="groupBox4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>582, 162</value>
+    <value>582, 123</value>
   </data>
   <data name="groupBox4.TabIndex" type="System.Int32, mscorlib">
     <value>24</value>
@@ -6124,7 +6124,7 @@
     <value>5</value>
   </data>
   <data name="tableLayoutPanel10.Size" type="System.Drawing.Size, System.Drawing">
-    <value>592, 856</value>
+    <value>592, 869</value>
   </data>
   <data name="tableLayoutPanel10.TabIndex" type="System.Int32, mscorlib">
     <value>23</value>
@@ -6142,7 +6142,7 @@
     <value>0</value>
   </data>
   <data name="tableLayoutPanel10.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="groupBox36" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="groupBox3" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="groupBox27" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="groupBox28" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="groupBox4" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,100" /&gt;&lt;Rows Styles="Percent,20,Percent,20,Percent,20,Percent,20,Percent,20" /&gt;&lt;/TableLayoutSettings&gt;</value>
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="groupBox36" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="groupBox3" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="groupBox27" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="groupBox28" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="groupBox4" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,100" /&gt;&lt;Rows Styles="Percent,20,Percent,30,Percent,20,Percent,15,Percent,15" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="tabCaiDat.Location" type="System.Drawing.Point, System.Drawing">
     <value>4, 32</value>
@@ -6154,7 +6154,7 @@
     <value>4, 5, 4, 5</value>
   </data>
   <data name="tabCaiDat.Size" type="System.Drawing.Size, System.Drawing">
-    <value>598, 861</value>
+    <value>598, 874</value>
   </data>
   <data name="tabCaiDat.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -6271,7 +6271,7 @@
     <value>True</value>
   </data>
   <data name="txbLichSuTheDoB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>246, 189</value>
+    <value>246, 194</value>
   </data>
   <data name="txbLichSuTheDoB.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -6298,7 +6298,7 @@
     <value>5, 3, 3, 3</value>
   </data>
   <data name="panel18.Size" type="System.Drawing.Size, System.Drawing">
-    <value>246, 233</value>
+    <value>246, 238</value>
   </data>
   <data name="panel18.TabIndex" type="System.Int32, mscorlib">
     <value>29</value>
@@ -6328,7 +6328,7 @@
     <value>13, 30, 8, 8</value>
   </data>
   <data name="pictureBox13.Size" type="System.Drawing.Size, System.Drawing">
-    <value>37, 201</value>
+    <value>37, 206</value>
   </data>
   <data name="pictureBox13.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>Zoom</value>
@@ -6400,7 +6400,7 @@
     <value>True</value>
   </data>
   <data name="txbLichSuTheDoA.Size" type="System.Drawing.Size, System.Drawing">
-    <value>246, 189</value>
+    <value>246, 194</value>
   </data>
   <data name="txbLichSuTheDoA.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -6457,7 +6457,7 @@
     <value>3, 3, 5, 3</value>
   </data>
   <data name="panel19.Size" type="System.Drawing.Size, System.Drawing">
-    <value>246, 233</value>
+    <value>246, 238</value>
   </data>
   <data name="panel19.TabIndex" type="System.Int32, mscorlib">
     <value>28</value>
@@ -6481,7 +6481,7 @@
     <value>1</value>
   </data>
   <data name="tableLayoutPanel8.Size" type="System.Drawing.Size, System.Drawing">
-    <value>566, 239</value>
+    <value>566, 244</value>
   </data>
   <data name="tableLayoutPanel8.TabIndex" type="System.Int32, mscorlib">
     <value>32</value>
@@ -6535,13 +6535,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 575</value>
+    <value>5, 583</value>
   </data>
   <data name="groupBox7.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>582, 276</value>
+    <value>582, 281</value>
   </data>
   <data name="groupBox7.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -6652,7 +6652,7 @@
     <value>True</value>
   </data>
   <data name="txbLichSuTheVangB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>246, 190</value>
+    <value>246, 194</value>
   </data>
   <data name="txbLichSuTheVangB.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -6679,7 +6679,7 @@
     <value>5, 3, 3, 3</value>
   </data>
   <data name="panel16.Size" type="System.Drawing.Size, System.Drawing">
-    <value>246, 234</value>
+    <value>246, 238</value>
   </data>
   <data name="panel16.TabIndex" type="System.Int32, mscorlib">
     <value>29</value>
@@ -6709,7 +6709,7 @@
     <value>13, 30, 8, 8</value>
   </data>
   <data name="pictureBox12.Size" type="System.Drawing.Size, System.Drawing">
-    <value>37, 202</value>
+    <value>37, 206</value>
   </data>
   <data name="pictureBox12.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>Zoom</value>
@@ -6781,7 +6781,7 @@
     <value>True</value>
   </data>
   <data name="txbLichSuTheVangA.Size" type="System.Drawing.Size, System.Drawing">
-    <value>246, 190</value>
+    <value>246, 194</value>
   </data>
   <data name="txbLichSuTheVangA.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -6838,7 +6838,7 @@
     <value>3, 3, 5, 3</value>
   </data>
   <data name="panel17.Size" type="System.Drawing.Size, System.Drawing">
-    <value>246, 234</value>
+    <value>246, 238</value>
   </data>
   <data name="panel17.TabIndex" type="System.Int32, mscorlib">
     <value>28</value>
@@ -6862,7 +6862,7 @@
     <value>1</value>
   </data>
   <data name="tableLayoutPanel7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>566, 240</value>
+    <value>566, 244</value>
   </data>
   <data name="tableLayoutPanel7.TabIndex" type="System.Int32, mscorlib">
     <value>31</value>
@@ -6916,13 +6916,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 290</value>
+    <value>5, 294</value>
   </data>
   <data name="groupBox6.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>582, 275</value>
+    <value>582, 279</value>
   </data>
   <data name="groupBox6.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -6964,7 +6964,7 @@
     <value>8, 25, 3, 3</value>
   </data>
   <data name="pictureBox11.Size" type="System.Drawing.Size, System.Drawing">
-    <value>47, 212</value>
+    <value>47, 216</value>
   </data>
   <data name="pictureBox11.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>Zoom</value>
@@ -7036,7 +7036,7 @@
     <value>True</value>
   </data>
   <data name="txbLichSuGhiBanB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>246, 190</value>
+    <value>246, 194</value>
   </data>
   <data name="txbLichSuGhiBanB.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -7093,7 +7093,7 @@
     <value>5, 3, 3, 3</value>
   </data>
   <data name="panel15.Size" type="System.Drawing.Size, System.Drawing">
-    <value>246, 234</value>
+    <value>246, 238</value>
   </data>
   <data name="panel15.TabIndex" type="System.Int32, mscorlib">
     <value>29</value>
@@ -7162,7 +7162,7 @@
     <value>True</value>
   </data>
   <data name="txbLichSuGhiBanA.Size" type="System.Drawing.Size, System.Drawing">
-    <value>246, 190</value>
+    <value>246, 194</value>
   </data>
   <data name="txbLichSuGhiBanA.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -7219,7 +7219,7 @@
     <value>3, 3, 5, 3</value>
   </data>
   <data name="panel14.Size" type="System.Drawing.Size, System.Drawing">
-    <value>246, 234</value>
+    <value>246, 238</value>
   </data>
   <data name="panel14.TabIndex" type="System.Int32, mscorlib">
     <value>28</value>
@@ -7243,7 +7243,7 @@
     <value>1</value>
   </data>
   <data name="tableLayoutPanel6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>566, 240</value>
+    <value>566, 244</value>
   </data>
   <data name="tableLayoutPanel6.TabIndex" type="System.Int32, mscorlib">
     <value>30</value>
@@ -7303,7 +7303,7 @@
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>582, 275</value>
+    <value>582, 279</value>
   </data>
   <data name="groupBox5.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -7330,7 +7330,7 @@
     <value>3</value>
   </data>
   <data name="tableLayoutPanel5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>592, 856</value>
+    <value>592, 869</value>
   </data>
   <data name="tableLayoutPanel5.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -7360,7 +7360,7 @@
     <value>4, 5, 4, 5</value>
   </data>
   <data name="tabLichSu.Size" type="System.Drawing.Size, System.Drawing">
-    <value>598, 861</value>
+    <value>598, 874</value>
   </data>
   <data name="tabLichSu.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -7543,7 +7543,7 @@
     <value>True</value>
   </data>
   <data name="txbChinhThucA.Size" type="System.Drawing.Size, System.Drawing">
-    <value>262, 231</value>
+    <value>262, 237</value>
   </data>
   <data name="txbChinhThucA.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -7576,7 +7576,7 @@
     <value>No</value>
   </data>
   <data name="groupBox30.Size" type="System.Drawing.Size, System.Drawing">
-    <value>273, 299</value>
+    <value>273, 305</value>
   </data>
   <data name="groupBox30.TabIndex" type="System.Int32, mscorlib">
     <value>49</value>
@@ -7615,7 +7615,7 @@
     <value>True</value>
   </data>
   <data name="txbTheDoA.Size" type="System.Drawing.Size, System.Drawing">
-    <value>262, 86</value>
+    <value>262, 87</value>
   </data>
   <data name="txbTheDoA.TabIndex" type="System.Int32, mscorlib">
     <value>47</value>
@@ -7639,13 +7639,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox32.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 666</value>
+    <value>0, 678</value>
   </data>
   <data name="groupBox32.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 0, 0, 0</value>
   </data>
   <data name="groupBox32.Size" type="System.Drawing.Size, System.Drawing">
-    <value>273, 116</value>
+    <value>273, 117</value>
   </data>
   <data name="groupBox32.TabIndex" type="System.Int32, mscorlib">
     <value>51</value>
@@ -7846,7 +7846,7 @@
     <value>True</value>
   </data>
   <data name="txbDuBiA.Size" type="System.Drawing.Size, System.Drawing">
-    <value>262, 231</value>
+    <value>262, 237</value>
   </data>
   <data name="txbDuBiA.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -7870,7 +7870,7 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox31.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 367</value>
+    <value>0, 373</value>
   </data>
   <data name="groupBox31.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 0, 0, 0</value>
@@ -7879,7 +7879,7 @@
     <value>No</value>
   </data>
   <data name="groupBox31.Size" type="System.Drawing.Size, System.Drawing">
-    <value>273, 299</value>
+    <value>273, 305</value>
   </data>
   <data name="groupBox31.TabIndex" type="System.Int32, mscorlib">
     <value>50</value>
@@ -7906,7 +7906,7 @@
     <value>4</value>
   </data>
   <data name="tableLayoutPanel9.Size" type="System.Drawing.Size, System.Drawing">
-    <value>273, 782</value>
+    <value>273, 795</value>
   </data>
   <data name="tableLayoutPanel9.TabIndex" type="System.Int32, mscorlib">
     <value>53</value>
@@ -7996,7 +7996,7 @@
     <value>No</value>
   </data>
   <data name="grbDoiA.Size" type="System.Drawing.Size, System.Drawing">
-    <value>285, 846</value>
+    <value>285, 859</value>
   </data>
   <data name="grbDoiA.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -8047,7 +8047,7 @@
     <value>True</value>
   </data>
   <data name="txbTheDoB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>262, 86</value>
+    <value>262, 87</value>
   </data>
   <data name="txbTheDoB.TabIndex" type="System.Int32, mscorlib">
     <value>47</value>
@@ -8071,13 +8071,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox37.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 666</value>
+    <value>0, 678</value>
   </data>
   <data name="groupBox37.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 0, 0, 0</value>
   </data>
   <data name="groupBox37.Size" type="System.Drawing.Size, System.Drawing">
-    <value>273, 116</value>
+    <value>273, 117</value>
   </data>
   <data name="groupBox37.TabIndex" type="System.Int32, mscorlib">
     <value>58</value>
@@ -8248,7 +8248,7 @@
     <value>True</value>
   </data>
   <data name="txbDuBiB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>262, 231</value>
+    <value>262, 237</value>
   </data>
   <data name="txbDuBiB.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -8272,13 +8272,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox35.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 367</value>
+    <value>0, 373</value>
   </data>
   <data name="groupBox35.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 0, 0, 0</value>
   </data>
   <data name="groupBox35.Size" type="System.Drawing.Size, System.Drawing">
-    <value>273, 299</value>
+    <value>273, 305</value>
   </data>
   <data name="groupBox35.TabIndex" type="System.Int32, mscorlib">
     <value>57</value>
@@ -8512,7 +8512,7 @@
     <value>True</value>
   </data>
   <data name="txbChinhThucB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>262, 231</value>
+    <value>262, 237</value>
   </data>
   <data name="txbChinhThucB.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -8542,7 +8542,7 @@
     <value>0, 0, 0, 0</value>
   </data>
   <data name="groupBox33.Size" type="System.Drawing.Size, System.Drawing">
-    <value>273, 299</value>
+    <value>273, 305</value>
   </data>
   <data name="groupBox33.TabIndex" type="System.Int32, mscorlib">
     <value>55</value>
@@ -8569,7 +8569,7 @@
     <value>4</value>
   </data>
   <data name="tableLayoutPanel26.Size" type="System.Drawing.Size, System.Drawing">
-    <value>273, 782</value>
+    <value>273, 795</value>
   </data>
   <data name="tableLayoutPanel26.TabIndex" type="System.Int32, mscorlib">
     <value>54</value>
@@ -8689,7 +8689,7 @@
     <value>6, 5, 5, 5</value>
   </data>
   <data name="grbDoiB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>285, 846</value>
+    <value>285, 859</value>
   </data>
   <data name="grbDoiB.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -8716,7 +8716,7 @@
     <value>1</value>
   </data>
   <data name="tableLayoutPanel11.Size" type="System.Drawing.Size, System.Drawing">
-    <value>592, 856</value>
+    <value>592, 869</value>
   </data>
   <data name="tableLayoutPanel11.TabIndex" type="System.Int32, mscorlib">
     <value>25</value>
@@ -8746,7 +8746,7 @@
     <value>4, 5, 4, 5</value>
   </data>
   <data name="tabDoiHinh.Size" type="System.Drawing.Size, System.Drawing">
-    <value>598, 861</value>
+    <value>598, 874</value>
   </data>
   <data name="tabDoiHinh.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -8791,7 +8791,7 @@
     <value>2</value>
   </data>
   <data name="tableLayoutPanel3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>80, 123</value>
+    <value>80, 124</value>
   </data>
   <data name="tableLayoutPanel3.RowCount" type="System.Int32, mscorlib">
     <value>1</value>
@@ -8821,7 +8821,7 @@
     <value>Left, Right</value>
   </data>
   <data name="txbVietTatA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>80, 87</value>
+    <value>80, 88</value>
   </data>
   <data name="txbVietTatA.MaxLength" type="System.Int32, mscorlib">
     <value>100</value>
@@ -8848,7 +8848,7 @@
     <value>Left, Right</value>
   </data>
   <data name="txbTenA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>80, 45</value>
+    <value>80, 46</value>
   </data>
   <data name="txbTenA.MaxLength" type="System.Int32, mscorlib">
     <value>250</value>
@@ -8881,7 +8881,7 @@
     <value>NoControl</value>
   </data>
   <data name="label66.Location" type="System.Drawing.Point, System.Drawing">
-    <value>15, 48</value>
+    <value>15, 49</value>
   </data>
   <data name="label66.Size" type="System.Drawing.Size, System.Drawing">
     <value>37, 23</value>
@@ -8914,7 +8914,7 @@
     <value>NoControl</value>
   </data>
   <data name="label73.Location" type="System.Drawing.Point, System.Drawing">
-    <value>15, 129</value>
+    <value>15, 130</value>
   </data>
   <data name="label73.Size" type="System.Drawing.Size, System.Drawing">
     <value>42, 23</value>
@@ -8974,7 +8974,7 @@
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox25.Size" type="System.Drawing.Size, System.Drawing">
-    <value>286, 185</value>
+    <value>286, 188</value>
   </data>
   <data name="groupBox25.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -9004,7 +9004,7 @@
     <value>Left, Right</value>
   </data>
   <data name="txbThoiGian.Location" type="System.Drawing.Point, System.Drawing">
-    <value>80, 54</value>
+    <value>80, 55</value>
   </data>
   <data name="txbThoiGian.MaxLength" type="System.Int32, mscorlib">
     <value>1000</value>
@@ -9034,7 +9034,7 @@
     <value>NoControl</value>
   </data>
   <data name="pictureBox5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>19, 45</value>
+    <value>19, 46</value>
   </data>
   <data name="pictureBox5.Size" type="System.Drawing.Size, System.Drawing">
     <value>48, 46</value>
@@ -9088,13 +9088,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox20.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 395</value>
+    <value>5, 401</value>
   </data>
   <data name="groupBox20.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox20.Size" type="System.Drawing.Size, System.Drawing">
-    <value>286, 120</value>
+    <value>286, 122</value>
   </data>
   <data name="groupBox20.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -9124,7 +9124,7 @@
     <value>Left, Right</value>
   </data>
   <data name="txbSan.Location" type="System.Drawing.Point, System.Drawing">
-    <value>80, 115</value>
+    <value>80, 116</value>
   </data>
   <data name="txbSan.MaxLength" type="System.Int32, mscorlib">
     <value>1000</value>
@@ -9151,7 +9151,7 @@
     <value>Left, Right</value>
   </data>
   <data name="txbDiaDiem.Location" type="System.Drawing.Point, System.Drawing">
-    <value>80, 63</value>
+    <value>80, 64</value>
   </data>
   <data name="txbDiaDiem.MaxLength" type="System.Int32, mscorlib">
     <value>1000</value>
@@ -9208,7 +9208,7 @@
     <value>NoControl</value>
   </data>
   <data name="pictureBox14.Location" type="System.Drawing.Point, System.Drawing">
-    <value>19, 52</value>
+    <value>19, 53</value>
   </data>
   <data name="pictureBox14.Size" type="System.Drawing.Size, System.Drawing">
     <value>48, 46</value>
@@ -9238,7 +9238,7 @@
     <value>NoControl</value>
   </data>
   <data name="pictureBox16.Location" type="System.Drawing.Point, System.Drawing">
-    <value>19, 104</value>
+    <value>19, 105</value>
   </data>
   <data name="pictureBox16.Size" type="System.Drawing.Size, System.Drawing">
     <value>48, 46</value>
@@ -9265,13 +9265,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox22.Location" type="System.Drawing.Point, System.Drawing">
-    <value>301, 200</value>
+    <value>301, 203</value>
   </data>
   <data name="groupBox22.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox22.Size" type="System.Drawing.Size, System.Drawing">
-    <value>286, 185</value>
+    <value>286, 188</value>
   </data>
   <data name="groupBox22.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -9301,7 +9301,7 @@
     <value>Left, Right</value>
   </data>
   <data name="txbVongDau.Location" type="System.Drawing.Point, System.Drawing">
-    <value>80, 115</value>
+    <value>80, 116</value>
   </data>
   <data name="txbVongDau.MaxLength" type="System.Int32, mscorlib">
     <value>1000</value>
@@ -9328,7 +9328,7 @@
     <value>Left, Right</value>
   </data>
   <data name="txbGiaiDau.Location" type="System.Drawing.Point, System.Drawing">
-    <value>80, 63</value>
+    <value>80, 64</value>
   </data>
   <data name="txbGiaiDau.MaxLength" type="System.Int32, mscorlib">
     <value>1000</value>
@@ -9358,7 +9358,7 @@
     <value>NoControl</value>
   </data>
   <data name="pictureBox17.Location" type="System.Drawing.Point, System.Drawing">
-    <value>19, 104</value>
+    <value>19, 105</value>
   </data>
   <data name="pictureBox17.Size" type="System.Drawing.Size, System.Drawing">
     <value>48, 46</value>
@@ -9388,7 +9388,7 @@
     <value>NoControl</value>
   </data>
   <data name="pictureBox15.Location" type="System.Drawing.Point, System.Drawing">
-    <value>19, 52</value>
+    <value>19, 53</value>
   </data>
   <data name="pictureBox15.Size" type="System.Drawing.Size, System.Drawing">
     <value>48, 46</value>
@@ -9442,13 +9442,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox19.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 200</value>
+    <value>5, 203</value>
   </data>
   <data name="groupBox19.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox19.Size" type="System.Drawing.Size, System.Drawing">
-    <value>286, 185</value>
+    <value>286, 188</value>
   </data>
   <data name="groupBox19.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -9481,7 +9481,7 @@
     <value>2</value>
   </data>
   <data name="tableLayoutPanel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>80, 123</value>
+    <value>80, 124</value>
   </data>
   <data name="tableLayoutPanel2.RowCount" type="System.Int32, mscorlib">
     <value>1</value>
@@ -9511,7 +9511,7 @@
     <value>Left, Right</value>
   </data>
   <data name="txbVietTatB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>80, 87</value>
+    <value>80, 88</value>
   </data>
   <data name="txbVietTatB.MaxLength" type="System.Int32, mscorlib">
     <value>100</value>
@@ -9538,7 +9538,7 @@
     <value>Left, Right</value>
   </data>
   <data name="txbTenB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>80, 45</value>
+    <value>80, 46</value>
   </data>
   <data name="txbTenB.MaxLength" type="System.Int32, mscorlib">
     <value>250</value>
@@ -9571,7 +9571,7 @@
     <value>NoControl</value>
   </data>
   <data name="label71.Location" type="System.Drawing.Point, System.Drawing">
-    <value>15, 50</value>
+    <value>15, 51</value>
   </data>
   <data name="label71.Size" type="System.Drawing.Size, System.Drawing">
     <value>37, 23</value>
@@ -9604,7 +9604,7 @@
     <value>NoControl</value>
   </data>
   <data name="label69.Location" type="System.Drawing.Point, System.Drawing">
-    <value>15, 131</value>
+    <value>15, 132</value>
   </data>
   <data name="label69.Size" type="System.Drawing.Size, System.Drawing">
     <value>42, 23</value>
@@ -9664,7 +9664,7 @@
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox26.Size" type="System.Drawing.Size, System.Drawing">
-    <value>286, 185</value>
+    <value>286, 188</value>
   </data>
   <data name="groupBox26.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -9694,7 +9694,7 @@
     <value>Left, Right</value>
   </data>
   <data name="txbThoiTiet.Location" type="System.Drawing.Point, System.Drawing">
-    <value>80, 54</value>
+    <value>80, 55</value>
   </data>
   <data name="txbThoiTiet.MaxLength" type="System.Int32, mscorlib">
     <value>64000</value>
@@ -9727,7 +9727,7 @@
     <value>NoControl</value>
   </data>
   <data name="pictureBox6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>19, 45</value>
+    <value>19, 46</value>
   </data>
   <data name="pictureBox6.Size" type="System.Drawing.Size, System.Drawing">
     <value>48, 46</value>
@@ -9781,13 +9781,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox21.Location" type="System.Drawing.Point, System.Drawing">
-    <value>301, 395</value>
+    <value>301, 401</value>
   </data>
   <data name="groupBox21.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox21.Size" type="System.Drawing.Size, System.Drawing">
-    <value>286, 120</value>
+    <value>286, 122</value>
   </data>
   <data name="groupBox21.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -9817,7 +9817,7 @@
     <value>Left, Right</value>
   </data>
   <data name="txbTrongTai.Location" type="System.Drawing.Point, System.Drawing">
-    <value>80, 54</value>
+    <value>80, 55</value>
   </data>
   <data name="txbTrongTai.MaxLength" type="System.Int32, mscorlib">
     <value>1000</value>
@@ -9847,7 +9847,7 @@
     <value>NoControl</value>
   </data>
   <data name="pictureBox19.Location" type="System.Drawing.Point, System.Drawing">
-    <value>19, 45</value>
+    <value>19, 46</value>
   </data>
   <data name="pictureBox19.Size" type="System.Drawing.Size, System.Drawing">
     <value>48, 46</value>
@@ -9901,13 +9901,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox24.Location" type="System.Drawing.Point, System.Drawing">
-    <value>301, 525</value>
+    <value>301, 533</value>
   </data>
   <data name="groupBox24.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox24.Size" type="System.Drawing.Size, System.Drawing">
-    <value>286, 121</value>
+    <value>286, 123</value>
   </data>
   <data name="groupBox24.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -9937,7 +9937,7 @@
     <value>Left, Right</value>
   </data>
   <data name="txbBinhLuanVien.Location" type="System.Drawing.Point, System.Drawing">
-    <value>80, 54</value>
+    <value>80, 55</value>
   </data>
   <data name="txbBinhLuanVien.MaxLength" type="System.Int32, mscorlib">
     <value>1000</value>
@@ -9967,7 +9967,7 @@
     <value>NoControl</value>
   </data>
   <data name="pictureBox18.Location" type="System.Drawing.Point, System.Drawing">
-    <value>19, 45</value>
+    <value>19, 46</value>
   </data>
   <data name="pictureBox18.Size" type="System.Drawing.Size, System.Drawing">
     <value>48, 46</value>
@@ -10021,13 +10021,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox23.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 525</value>
+    <value>5, 533</value>
   </data>
   <data name="groupBox23.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox23.Size" type="System.Drawing.Size, System.Drawing">
-    <value>286, 121</value>
+    <value>286, 123</value>
   </data>
   <data name="groupBox23.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -10048,7 +10048,7 @@
     <value>7</value>
   </data>
   <data name="tableLayoutPanel16.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 205</value>
+    <value>0, 208</value>
   </data>
   <data name="tableLayoutPanel16.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 0, 0, 0</value>
@@ -10057,7 +10057,7 @@
     <value>4</value>
   </data>
   <data name="tableLayoutPanel16.Size" type="System.Drawing.Size, System.Drawing">
-    <value>592, 651</value>
+    <value>592, 661</value>
   </data>
   <data name="tableLayoutPanel16.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -10087,7 +10087,7 @@
     <value>NoControl</value>
   </data>
   <data name="ptbKoTachDuongDan.Location" type="System.Drawing.Point, System.Drawing">
-    <value>497, 119</value>
+    <value>497, 120</value>
   </data>
   <data name="ptbKoTachDuongDan.Size" type="System.Drawing.Size, System.Drawing">
     <value>28, 28</value>
@@ -10117,7 +10117,7 @@
     <value>NoControl</value>
   </data>
   <data name="ptbTachDuongDan.Location" type="System.Drawing.Point, System.Drawing">
-    <value>497, 119</value>
+    <value>497, 120</value>
   </data>
   <data name="ptbTachDuongDan.Size" type="System.Drawing.Size, System.Drawing">
     <value>28, 28</value>
@@ -10147,7 +10147,7 @@
     <value>None</value>
   </data>
   <data name="panel7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>45, 122</value>
+    <value>45, 123</value>
   </data>
   <data name="panel7.Size" type="System.Drawing.Size, System.Drawing">
     <value>437, 51</value>
@@ -10177,7 +10177,7 @@
     <value>NoControl</value>
   </data>
   <data name="label65.Location" type="System.Drawing.Point, System.Drawing">
-    <value>15, 84</value>
+    <value>15, 85</value>
   </data>
   <data name="label65.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 23</value>
@@ -10210,7 +10210,7 @@
     <value>NoControl</value>
   </data>
   <data name="label64.Location" type="System.Drawing.Point, System.Drawing">
-    <value>15, 46</value>
+    <value>15, 47</value>
   </data>
   <data name="label64.Size" type="System.Drawing.Size, System.Drawing">
     <value>102, 23</value>
@@ -10240,7 +10240,7 @@
     <value>Roboto Condensed, 12pt, style=Bold</value>
   </data>
   <data name="txbDuongDan.Location" type="System.Drawing.Point, System.Drawing">
-    <value>140, 84</value>
+    <value>140, 85</value>
   </data>
   <data name="txbDuongDan.Size" type="System.Drawing.Size, System.Drawing">
     <value>375, 27</value>
@@ -10267,7 +10267,7 @@
     <value>Roboto Condensed, 12pt, style=Bold</value>
   </data>
   <data name="txbTenThuMuc.Location" type="System.Drawing.Point, System.Drawing">
-    <value>140, 46</value>
+    <value>140, 47</value>
   </data>
   <data name="txbTenThuMuc.MaxLength" type="System.Int32, mscorlib">
     <value>250</value>
@@ -10300,7 +10300,7 @@
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox17.Size" type="System.Drawing.Size, System.Drawing">
-    <value>582, 195</value>
+    <value>582, 198</value>
   </data>
   <data name="groupBox17.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -10327,7 +10327,7 @@
     <value>2</value>
   </data>
   <data name="tableLayoutPanel15.Size" type="System.Drawing.Size, System.Drawing">
-    <value>592, 856</value>
+    <value>592, 869</value>
   </data>
   <data name="tableLayoutPanel15.TabIndex" type="System.Int32, mscorlib">
     <value>25</value>
@@ -10357,7 +10357,7 @@
     <value>4, 5, 4, 5</value>
   </data>
   <data name="tabLuuTru.Size" type="System.Drawing.Size, System.Drawing">
-    <value>598, 861</value>
+    <value>598, 874</value>
   </data>
   <data name="tabLuuTru.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -10390,7 +10390,7 @@
     <value>Left, Right</value>
   </data>
   <data name="cbbTheDoA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>101, 48</value>
+    <value>101, 49</value>
   </data>
   <data name="cbbTheDoA.Size" type="System.Drawing.Size, System.Drawing">
     <value>128, 31</value>
@@ -10414,7 +10414,7 @@
     <value>Left, Right</value>
   </data>
   <data name="cbbTheDoB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>101, 84</value>
+    <value>101, 85</value>
   </data>
   <data name="cbbTheDoB.Size" type="System.Drawing.Size, System.Drawing">
     <value>128, 31</value>
@@ -10629,7 +10629,7 @@
     <value>NoControl</value>
   </data>
   <data name="ptbTheDoB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>241, 87</value>
+    <value>241, 88</value>
   </data>
   <data name="ptbTheDoB.Size" type="System.Drawing.Size, System.Drawing">
     <value>37, 29</value>
@@ -10847,7 +10847,7 @@
     <value>NoControl</value>
   </data>
   <data name="ptbTheDoA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>241, 51</value>
+    <value>241, 52</value>
   </data>
   <data name="ptbTheDoA.Size" type="System.Drawing.Size, System.Drawing">
     <value>37, 29</value>
@@ -10877,7 +10877,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbTheDoA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>32, 52</value>
+    <value>32, 53</value>
   </data>
   <data name="lbTheDoA.Size" type="System.Drawing.Size, System.Drawing">
     <value>104, 24</value>
@@ -10910,7 +10910,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbTheDoB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>32, 88</value>
+    <value>32, 89</value>
   </data>
   <data name="lbTheDoB.Size" type="System.Drawing.Size, System.Drawing">
     <value>100, 24</value>
@@ -10946,7 +10946,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbColorTheDoB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 87</value>
+    <value>12, 88</value>
   </data>
   <data name="lbColorTheDoB.Size" type="System.Drawing.Size, System.Drawing">
     <value>16, 25</value>
@@ -10979,7 +10979,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbColorTheDoA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 51</value>
+    <value>12, 52</value>
   </data>
   <data name="lbColorTheDoA.Size" type="System.Drawing.Size, System.Drawing">
     <value>16, 25</value>
@@ -11006,13 +11006,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox9.Location" type="System.Drawing.Point, System.Drawing">
-    <value>301, 552</value>
+    <value>301, 560</value>
   </data>
   <data name="groupBox9.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox9.Size" type="System.Drawing.Size, System.Drawing">
-    <value>286, 144</value>
+    <value>286, 146</value>
   </data>
   <data name="groupBox9.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -11048,7 +11048,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbChiTietLuanLuu.Location" type="System.Drawing.Point, System.Drawing">
-    <value>118, 148</value>
+    <value>118, 151</value>
   </data>
   <data name="lbChiTietLuanLuu.Size" type="System.Drawing.Size, System.Drawing">
     <value>56, 19</value>
@@ -11078,7 +11078,7 @@
     <value>Roboto Condensed, 20.25pt, style=Bold</value>
   </data>
   <data name="nudLuanLuuB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>153, 49</value>
+    <value>153, 51</value>
   </data>
   <data name="nudLuanLuuB.Size" type="System.Drawing.Size, System.Drawing">
     <value>72, 40</value>
@@ -11108,7 +11108,7 @@
     <value>Roboto Condensed, 20.25pt, style=Bold</value>
   </data>
   <data name="nudLuanLuuA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>61, 49</value>
+    <value>61, 51</value>
   </data>
   <data name="nudLuanLuuA.Size" type="System.Drawing.Size, System.Drawing">
     <value>72, 40</value>
@@ -11144,7 +11144,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbColorLuanLuuA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>37, 56</value>
+    <value>37, 58</value>
   </data>
   <data name="lbColorLuanLuuA.Size" type="System.Drawing.Size, System.Drawing">
     <value>16, 25</value>
@@ -11174,7 +11174,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbLuanLuuA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>29, 95</value>
+    <value>29, 97</value>
   </data>
   <data name="lbLuanLuuA.Size" type="System.Drawing.Size, System.Drawing">
     <value>104, 24</value>
@@ -11207,7 +11207,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbLuanLuuB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>154, 95</value>
+    <value>154, 97</value>
   </data>
   <data name="lbLuanLuuB.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
     <value>No</value>
@@ -11246,7 +11246,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbColorLuanLuuB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>233, 56</value>
+    <value>233, 58</value>
   </data>
   <data name="lbColorLuanLuuB.Size" type="System.Drawing.Size, System.Drawing">
     <value>16, 25</value>
@@ -11273,13 +11273,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox16.Location" type="System.Drawing.Point, System.Drawing">
-    <value>301, 364</value>
+    <value>301, 369</value>
   </data>
   <data name="groupBox16.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox16.Size" type="System.Drawing.Size, System.Drawing">
-    <value>286, 178</value>
+    <value>286, 181</value>
   </data>
   <data name="groupBox16.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -11312,7 +11312,7 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="cbbGhiBanA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>101, 49</value>
+    <value>101, 51</value>
   </data>
   <data name="cbbGhiBanA.Size" type="System.Drawing.Size, System.Drawing">
     <value>128, 31</value>
@@ -11336,7 +11336,7 @@
     <value>Left, Right</value>
   </data>
   <data name="cbbGhiBanB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>101, 85</value>
+    <value>101, 87</value>
   </data>
   <data name="cbbGhiBanB.Size" type="System.Drawing.Size, System.Drawing">
     <value>128, 31</value>
@@ -11369,7 +11369,7 @@
     <value>NoControl</value>
   </data>
   <data name="ckbPenalty.Location" type="System.Drawing.Point, System.Drawing">
-    <value>50, 147</value>
+    <value>50, 150</value>
   </data>
   <data name="ckbPenalty.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 0, 0, 0</value>
@@ -11408,7 +11408,7 @@
     <value>NoControl</value>
   </data>
   <data name="ckbPhanLuoi1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>154, 147</value>
+    <value>154, 150</value>
   </data>
   <data name="ckbPhanLuoi1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 0, 0, 0</value>
@@ -11441,7 +11441,7 @@
     <value>NoControl</value>
   </data>
   <data name="ptbGhiBanB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>237, 87</value>
+    <value>237, 89</value>
   </data>
   <data name="ptbGhiBanB.Size" type="System.Drawing.Size, System.Drawing">
     <value>37, 29</value>
@@ -11471,7 +11471,7 @@
     <value>NoControl</value>
   </data>
   <data name="ptbGhiBanA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>237, 51</value>
+    <value>237, 53</value>
   </data>
   <data name="ptbGhiBanA.Size" type="System.Drawing.Size, System.Drawing">
     <value>37, 29</value>
@@ -11501,7 +11501,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbGhiBanA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>32, 53</value>
+    <value>32, 55</value>
   </data>
   <data name="lbGhiBanA.Size" type="System.Drawing.Size, System.Drawing">
     <value>104, 24</value>
@@ -11534,7 +11534,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbGhiBanB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>32, 89</value>
+    <value>32, 91</value>
   </data>
   <data name="lbGhiBanB.Size" type="System.Drawing.Size, System.Drawing">
     <value>100, 24</value>
@@ -11570,7 +11570,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbColorGhiBanB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 88</value>
+    <value>12, 90</value>
   </data>
   <data name="lbColorGhiBanB.Size" type="System.Drawing.Size, System.Drawing">
     <value>16, 25</value>
@@ -11603,7 +11603,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbColorGhiBanA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 52</value>
+    <value>12, 54</value>
   </data>
   <data name="lbColorGhiBanA.Size" type="System.Drawing.Size, System.Drawing">
     <value>16, 25</value>
@@ -11630,13 +11630,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 364</value>
+    <value>5, 369</value>
   </data>
   <data name="groupBox8.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox8.Size" type="System.Drawing.Size, System.Drawing">
-    <value>286, 178</value>
+    <value>286, 181</value>
   </data>
   <data name="groupBox8.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -11663,7 +11663,7 @@
     <value>Left, Right</value>
   </data>
   <data name="cbbTheVangA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>101, 48</value>
+    <value>101, 49</value>
   </data>
   <data name="cbbTheVangA.Size" type="System.Drawing.Size, System.Drawing">
     <value>128, 31</value>
@@ -11687,7 +11687,7 @@
     <value>Left, Right</value>
   </data>
   <data name="cbbTheVangB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>101, 84</value>
+    <value>101, 85</value>
   </data>
   <data name="cbbTheVangB.Size" type="System.Drawing.Size, System.Drawing">
     <value>128, 31</value>
@@ -11714,7 +11714,7 @@
     <value>NoControl</value>
   </data>
   <data name="ptbTheVangB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>241, 87</value>
+    <value>241, 88</value>
   </data>
   <data name="ptbTheVangB.Size" type="System.Drawing.Size, System.Drawing">
     <value>37, 29</value>
@@ -11744,7 +11744,7 @@
     <value>NoControl</value>
   </data>
   <data name="ptbTheVangA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>241, 51</value>
+    <value>241, 52</value>
   </data>
   <data name="ptbTheVangA.Size" type="System.Drawing.Size, System.Drawing">
     <value>37, 29</value>
@@ -11774,7 +11774,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbTheVangB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>32, 88</value>
+    <value>32, 89</value>
   </data>
   <data name="lbTheVangB.Size" type="System.Drawing.Size, System.Drawing">
     <value>100, 24</value>
@@ -11807,7 +11807,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbTheVangA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>32, 52</value>
+    <value>32, 53</value>
   </data>
   <data name="lbTheVangA.Size" type="System.Drawing.Size, System.Drawing">
     <value>104, 24</value>
@@ -11843,7 +11843,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbColorTheVangA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 51</value>
+    <value>12, 52</value>
   </data>
   <data name="lbColorTheVangA.Size" type="System.Drawing.Size, System.Drawing">
     <value>16, 25</value>
@@ -11876,7 +11876,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbColorTheVangB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 87</value>
+    <value>12, 88</value>
   </data>
   <data name="lbColorTheVangB.Size" type="System.Drawing.Size, System.Drawing">
     <value>16, 25</value>
@@ -11903,13 +11903,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox13.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 552</value>
+    <value>5, 560</value>
   </data>
   <data name="groupBox13.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox13.Size" type="System.Drawing.Size, System.Drawing">
-    <value>286, 144</value>
+    <value>286, 146</value>
   </data>
   <data name="groupBox13.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -11939,7 +11939,7 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="cbbHiepDau.Location" type="System.Drawing.Point, System.Drawing">
-    <value>108, 42</value>
+    <value>108, 44</value>
   </data>
   <data name="cbbHiepDau.Size" type="System.Drawing.Size, System.Drawing">
     <value>165, 31</value>
@@ -11966,7 +11966,7 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="cbbBuGio.Location" type="System.Drawing.Point, System.Drawing">
-    <value>108, 80</value>
+    <value>108, 82</value>
   </data>
   <data name="cbbBuGio.Size" type="System.Drawing.Size, System.Drawing">
     <value>105, 31</value>
@@ -11999,7 +11999,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbWinRate.Location" type="System.Drawing.Point, System.Drawing">
-    <value>106, 130</value>
+    <value>106, 132</value>
   </data>
   <data name="lbWinRate.Size" type="System.Drawing.Size, System.Drawing">
     <value>24, 19</value>
@@ -12035,7 +12035,7 @@
     <value>NoControl</value>
   </data>
   <data name="label38.Location" type="System.Drawing.Point, System.Drawing">
-    <value>219, 84</value>
+    <value>219, 86</value>
   </data>
   <data name="label38.Size" type="System.Drawing.Size, System.Drawing">
     <value>55, 23</value>
@@ -12071,7 +12071,7 @@
     <value>NoControl</value>
   </data>
   <data name="label35.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 46</value>
+    <value>7, 48</value>
   </data>
   <data name="label35.Size" type="System.Drawing.Size, System.Drawing">
     <value>78, 23</value>
@@ -12107,7 +12107,7 @@
     <value>NoControl</value>
   </data>
   <data name="label42.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 84</value>
+    <value>7, 86</value>
   </data>
   <data name="label42.Size" type="System.Drawing.Size, System.Drawing">
     <value>59, 23</value>
@@ -12134,13 +12134,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox14.Location" type="System.Drawing.Point, System.Drawing">
-    <value>301, 176</value>
+    <value>301, 178</value>
   </data>
   <data name="groupBox14.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox14.Size" type="System.Drawing.Size, System.Drawing">
-    <value>286, 178</value>
+    <value>286, 181</value>
   </data>
   <data name="groupBox14.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -12173,7 +12173,7 @@
     <value>Roboto Condensed, 30pt, style=Bold</value>
   </data>
   <data name="nudTiSoA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>60, 40</value>
+    <value>60, 42</value>
   </data>
   <data name="nudTiSoA.Size" type="System.Drawing.Size, System.Drawing">
     <value>83, 56</value>
@@ -12206,7 +12206,7 @@
     <value>Roboto Condensed, 30pt, style=Bold</value>
   </data>
   <data name="nudTiSoB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>146, 40</value>
+    <value>146, 42</value>
   </data>
   <data name="nudTiSoB.Size" type="System.Drawing.Size, System.Drawing">
     <value>83, 56</value>
@@ -12242,7 +12242,7 @@
     <value>NoControl</value>
   </data>
   <data name="ckbCapNhatTiSo.Location" type="System.Drawing.Point, System.Drawing">
-    <value>47, 148</value>
+    <value>47, 151</value>
   </data>
   <data name="ckbCapNhatTiSo.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>0, 0, 0, 0</value>
@@ -12278,7 +12278,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbColorTiSoA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>35, 57</value>
+    <value>35, 59</value>
   </data>
   <data name="lbColorTiSoA.Size" type="System.Drawing.Size, System.Drawing">
     <value>16, 25</value>
@@ -12308,7 +12308,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbTiSoB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>150, 103</value>
+    <value>150, 105</value>
   </data>
   <data name="lbTiSoB.Size" type="System.Drawing.Size, System.Drawing">
     <value>104, 24</value>
@@ -12344,7 +12344,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbColorTiSoB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>237, 57</value>
+    <value>237, 59</value>
   </data>
   <data name="lbColorTiSoB.Size" type="System.Drawing.Size, System.Drawing">
     <value>16, 25</value>
@@ -12374,7 +12374,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbTiSoA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>35, 103</value>
+    <value>35, 105</value>
   </data>
   <data name="lbTiSoA.Size" type="System.Drawing.Size, System.Drawing">
     <value>104, 24</value>
@@ -12404,13 +12404,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox10.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 176</value>
+    <value>5, 178</value>
   </data>
   <data name="groupBox10.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox10.Size" type="System.Drawing.Size, System.Drawing">
-    <value>286, 178</value>
+    <value>286, 181</value>
   </data>
   <data name="groupBox10.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -12437,7 +12437,7 @@
     <value>None</value>
   </data>
   <data name="cbbFromTime.Location" type="System.Drawing.Point, System.Drawing">
-    <value>29, 44</value>
+    <value>29, 45</value>
   </data>
   <data name="cbbFromTime.MaxLength" type="System.Int32, mscorlib">
     <value>3</value>
@@ -12464,7 +12464,7 @@
     <value>None</value>
   </data>
   <data name="cbbToTime.Location" type="System.Drawing.Point, System.Drawing">
-    <value>128, 44</value>
+    <value>128, 45</value>
   </data>
   <data name="cbbToTime.MaxLength" type="System.Int32, mscorlib">
     <value>3</value>
@@ -12500,7 +12500,7 @@
     <value>NoControl</value>
   </data>
   <data name="btnChay.Location" type="System.Drawing.Point, System.Drawing">
-    <value>66, 95</value>
+    <value>66, 97</value>
   </data>
   <data name="btnChay.Size" type="System.Drawing.Size, System.Drawing">
     <value>134, 48</value>
@@ -12530,7 +12530,7 @@
     <value>Roboto Condensed, 12pt, style=Bold</value>
   </data>
   <data name="cbbSpeed.Location" type="System.Drawing.Point, System.Drawing">
-    <value>204, 113</value>
+    <value>204, 115</value>
   </data>
   <data name="cbbSpeed.MaxLength" type="System.Int32, mscorlib">
     <value>3</value>
@@ -12566,7 +12566,7 @@
     <value>NoControl</value>
   </data>
   <data name="btnReset.Location" type="System.Drawing.Point, System.Drawing">
-    <value>29, 95</value>
+    <value>29, 97</value>
   </data>
   <data name="btnReset.Size" type="System.Drawing.Size, System.Drawing">
     <value>33, 48</value>
@@ -12602,7 +12602,7 @@
     <value>NoControl</value>
   </data>
   <data name="label12.Location" type="System.Drawing.Point, System.Drawing">
-    <value>206, 90</value>
+    <value>206, 92</value>
   </data>
   <data name="label12.Size" type="System.Drawing.Size, System.Drawing">
     <value>52, 19</value>
@@ -12638,7 +12638,7 @@
     <value>NoControl</value>
   </data>
   <data name="label51.Location" type="System.Drawing.Point, System.Drawing">
-    <value>95, 48</value>
+    <value>95, 49</value>
   </data>
   <data name="label51.Size" type="System.Drawing.Size, System.Drawing">
     <value>30, 25</value>
@@ -12671,7 +12671,7 @@
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox15.Size" type="System.Drawing.Size, System.Drawing">
-    <value>286, 161</value>
+    <value>286, 163</value>
   </data>
   <data name="groupBox15.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -12707,7 +12707,7 @@
     <value>NoControl</value>
   </data>
   <data name="label11.Location" type="System.Drawing.Point, System.Drawing">
-    <value>31, 100</value>
+    <value>31, 101</value>
   </data>
   <data name="label11.Size" type="System.Drawing.Size, System.Drawing">
     <value>59, 23</value>
@@ -12803,7 +12803,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbThoiGianChinhThuc.Location" type="System.Drawing.Point, System.Drawing">
-    <value>115, 32</value>
+    <value>115, 33</value>
   </data>
   <data name="lbThoiGianChinhThuc.Size" type="System.Drawing.Size, System.Drawing">
     <value>134, 58</value>
@@ -12842,7 +12842,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbSoPhutBuGio.Location" type="System.Drawing.Point, System.Drawing">
-    <value>202, 94</value>
+    <value>202, 95</value>
   </data>
   <data name="lbSoPhutBuGio.Size" type="System.Drawing.Size, System.Drawing">
     <value>44, 35</value>
@@ -12881,7 +12881,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbThoiGianBuGio.Location" type="System.Drawing.Point, System.Drawing">
-    <value>120, 94</value>
+    <value>120, 95</value>
   </data>
   <data name="lbThoiGianBuGio.Size" type="System.Drawing.Size, System.Drawing">
     <value>83, 35</value>
@@ -12920,7 +12920,7 @@
     <value>NoControl</value>
   </data>
   <data name="label43.Location" type="System.Drawing.Point, System.Drawing">
-    <value>31, 58</value>
+    <value>31, 59</value>
   </data>
   <data name="label43.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 23</value>
@@ -12953,7 +12953,7 @@
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox18.Size" type="System.Drawing.Size, System.Drawing">
-    <value>286, 161</value>
+    <value>286, 163</value>
   </data>
   <data name="groupBox18.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -12980,7 +12980,7 @@
     <value>Left, Right</value>
   </data>
   <data name="cbbVaoSanA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>101, 48</value>
+    <value>101, 49</value>
   </data>
   <data name="cbbVaoSanA.Size" type="System.Drawing.Size, System.Drawing">
     <value>105, 31</value>
@@ -13004,7 +13004,7 @@
     <value>Left, Right</value>
   </data>
   <data name="cbbVaoSanB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>101, 84</value>
+    <value>101, 85</value>
   </data>
   <data name="cbbVaoSanB.Size" type="System.Drawing.Size, System.Drawing">
     <value>105, 31</value>
@@ -13031,7 +13031,7 @@
     <value>NoControl</value>
   </data>
   <data name="ptbVaoSanB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>241, 87</value>
+    <value>241, 88</value>
   </data>
   <data name="ptbVaoSanB.Size" type="System.Drawing.Size, System.Drawing">
     <value>37, 29</value>
@@ -13061,7 +13061,7 @@
     <value>NoControl</value>
   </data>
   <data name="ptbVaoSanA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>241, 51</value>
+    <value>241, 52</value>
   </data>
   <data name="ptbVaoSanA.Size" type="System.Drawing.Size, System.Drawing">
     <value>37, 29</value>
@@ -13091,7 +13091,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbVaoSanB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>32, 87</value>
+    <value>32, 88</value>
   </data>
   <data name="lbVaoSanB.Size" type="System.Drawing.Size, System.Drawing">
     <value>100, 24</value>
@@ -13127,7 +13127,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbColorVaoSanB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 87</value>
+    <value>12, 88</value>
   </data>
   <data name="lbColorVaoSanB.Size" type="System.Drawing.Size, System.Drawing">
     <value>16, 25</value>
@@ -13160,7 +13160,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbColorVaoSanA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 51</value>
+    <value>12, 52</value>
   </data>
   <data name="lbColorVaoSanA.Size" type="System.Drawing.Size, System.Drawing">
     <value>16, 25</value>
@@ -13193,7 +13193,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbSoLuongDuBiA2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>211, 52</value>
+    <value>211, 53</value>
   </data>
   <data name="lbSoLuongDuBiA2.Size" type="System.Drawing.Size, System.Drawing">
     <value>20, 23</value>
@@ -13226,7 +13226,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbSoLuongDuBiB2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>211, 88</value>
+    <value>211, 89</value>
   </data>
   <data name="lbSoLuongDuBiB2.Size" type="System.Drawing.Size, System.Drawing">
     <value>20, 23</value>
@@ -13256,7 +13256,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbVaoSanA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>32, 51</value>
+    <value>32, 52</value>
   </data>
   <data name="lbVaoSanA.Size" type="System.Drawing.Size, System.Drawing">
     <value>104, 24</value>
@@ -13286,13 +13286,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox12.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 706</value>
+    <value>5, 716</value>
   </data>
   <data name="groupBox12.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox12.Size" type="System.Drawing.Size, System.Drawing">
-    <value>286, 145</value>
+    <value>286, 148</value>
   </data>
   <data name="groupBox12.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -13319,7 +13319,7 @@
     <value>Left, Right</value>
   </data>
   <data name="cbbRaSanA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>101, 48</value>
+    <value>101, 49</value>
   </data>
   <data name="cbbRaSanA.Size" type="System.Drawing.Size, System.Drawing">
     <value>105, 31</value>
@@ -13343,7 +13343,7 @@
     <value>Left, Right</value>
   </data>
   <data name="cbbRaSanB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>101, 84</value>
+    <value>101, 85</value>
   </data>
   <data name="cbbRaSanB.Size" type="System.Drawing.Size, System.Drawing">
     <value>105, 31</value>
@@ -13460,7 +13460,7 @@
 </value>
   </data>
   <data name="ptbRoiSanB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>241, 87</value>
+    <value>241, 88</value>
   </data>
   <data name="ptbRoiSanB.Size" type="System.Drawing.Size, System.Drawing">
     <value>37, 29</value>
@@ -13490,7 +13490,7 @@
     <value>NoControl</value>
   </data>
   <data name="ptbRoiSanA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>241, 51</value>
+    <value>241, 52</value>
   </data>
   <data name="ptbRoiSanA.Size" type="System.Drawing.Size, System.Drawing">
     <value>37, 29</value>
@@ -13520,7 +13520,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbRaSanB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>32, 87</value>
+    <value>32, 88</value>
   </data>
   <data name="lbRaSanB.Size" type="System.Drawing.Size, System.Drawing">
     <value>100, 24</value>
@@ -13556,7 +13556,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbColorRaSanB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 87</value>
+    <value>12, 88</value>
   </data>
   <data name="lbColorRaSanB.Size" type="System.Drawing.Size, System.Drawing">
     <value>16, 25</value>
@@ -13589,7 +13589,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbColorRaSanA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 51</value>
+    <value>12, 52</value>
   </data>
   <data name="lbColorRaSanA.Size" type="System.Drawing.Size, System.Drawing">
     <value>16, 25</value>
@@ -13622,7 +13622,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbSoLuongChinhThucA2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>211, 52</value>
+    <value>211, 53</value>
   </data>
   <data name="lbSoLuongChinhThucA2.Size" type="System.Drawing.Size, System.Drawing">
     <value>20, 23</value>
@@ -13655,7 +13655,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbSoLuongChinhThucB2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>211, 88</value>
+    <value>211, 89</value>
   </data>
   <data name="lbSoLuongChinhThucB2.Size" type="System.Drawing.Size, System.Drawing">
     <value>20, 23</value>
@@ -13685,7 +13685,7 @@
     <value>NoControl</value>
   </data>
   <data name="lbRaSanA.Location" type="System.Drawing.Point, System.Drawing">
-    <value>32, 51</value>
+    <value>32, 52</value>
   </data>
   <data name="lbRaSanA.Size" type="System.Drawing.Size, System.Drawing">
     <value>104, 24</value>
@@ -13715,13 +13715,13 @@
     <value>Roboto Condensed, 14.25pt, style=Bold</value>
   </data>
   <data name="groupBox11.Location" type="System.Drawing.Point, System.Drawing">
-    <value>301, 706</value>
+    <value>301, 716</value>
   </data>
   <data name="groupBox11.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>5, 5, 5, 5</value>
   </data>
   <data name="groupBox11.Size" type="System.Drawing.Size, System.Drawing">
-    <value>286, 145</value>
+    <value>286, 148</value>
   </data>
   <data name="groupBox11.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -13748,7 +13748,7 @@
     <value>5</value>
   </data>
   <data name="tableLayoutPanel14.Size" type="System.Drawing.Size, System.Drawing">
-    <value>592, 856</value>
+    <value>592, 869</value>
   </data>
   <data name="tableLayoutPanel14.TabIndex" type="System.Int32, mscorlib">
     <value>25</value>
@@ -13778,7 +13778,7 @@
     <value>4, 5, 4, 5</value>
   </data>
   <data name="tabDieuKhienTranDau.Size" type="System.Drawing.Size, System.Drawing">
-    <value>598, 861</value>
+    <value>598, 874</value>
   </data>
   <data name="tabDieuKhienTranDau.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -13811,7 +13811,7 @@
     <value>4, 5, 4, 5</value>
   </data>
   <data name="tabControl.Size" type="System.Drawing.Size, System.Drawing">
-    <value>606, 897</value>
+    <value>606, 910</value>
   </data>
   <data name="tabControl.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -13838,7 +13838,7 @@
     <value>9, 20</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>606, 899</value>
+    <value>606, 912</value>
   </data>
   <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 12pt</value>
@@ -16619,7 +16619,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>FootballKit 4.1.3 by CZH</value>
+    <value>FootballKit 4.2.1 by CZH</value>
   </data>
   <data name="&gt;&gt;formatAllDoiHinhToolStripMenuItemA.Name" xml:space="preserve">
     <value>formatAllDoiHinhToolStripMenuItemA</value>

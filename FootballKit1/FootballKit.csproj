@@ -89,6 +89,7 @@
     <Compile Include="API.cs" />
     <Compile Include="AppData.cs" />
     <Compile Include="AppDataController.cs" />
+    <Compile Include="City.cs" />
     <Compile Include="DoiHinhController.cs" />
     <Compile Include="fMauAoQuan.cs">
       <SubType>Form</SubType>
