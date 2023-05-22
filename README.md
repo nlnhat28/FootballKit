@@ -1,4 +1,4 @@
-# ✒️ Introduction
+# 🟰 Overview
 * A file management application serving for football livestream through OBS Studio.
 * C# .NET Framework 4.6, Winform 
 * From 4/2022
@@ -44,5 +44,3 @@ Goals, cards and time
 ![History](Demo/Images/History.png)
 ## Penalty feature
 ![Penalty](Demo/Images/Penalty.png)
-
-<center>End</center> 
