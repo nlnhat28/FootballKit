@@ -4,32 +4,45 @@
 * From 4/2022
 # ⚙️ How it works
 * FootballKit manages, controls and changes text files and images.
-* OBS Studio binds data and updates immediately values from files then show on livestream platform.<br>
+* OBS Studio binds data and updates immediately values from files then show on livestream platform.
+
 ![Flow](Demo/Images/Flow.png)
 # 🎬 Demo
 ## Manage match information
-* About names and colors of teams, location, pitch, referee,...<br>
+* About names and colors of teams, location, pitch, referee,...
+
 ![Info](Demo/Images/Info.png)
-* About weather<br>
+* About weather
+
 ![Info-Weather](Demo/Images/Info-Weather.png)
 (Reference [API Weather](https://openweathermap.org/current))
 ## Control match
-* Official time, overtime, score, inning,...<br>
+* Official time, overtime, score, inning,...
+
 ![Control](Demo/Images/Control.png)
-* Goal<br>
+* Goal
+
 ![Control-Goal](Demo/Images/Control-Goal.png)
-* Card<br>
+* Card
+
 ![Control-Card](Demo/Images/Control-Card.png)
-* Substitution<br>
+* Substitution
+
 ![Control-Substitution](Demo/Images/Control-Substitution.png)
 ## Manage lineup
-* Starting XI, substitute, coach<br>
+* Starting XI, substitute, coach
+
 ![Lineup](Demo/Images/Lineup.png)
-* Generate image<br>
-![Lineup-A](Demo/Images/Lineup-A.png)<br>
+* Generate image
+
+![Lineup-A](Demo/Images/Lineup-A.png)
+
 ![Lineup-B](Demo/Images/Lineup-B.png)
 ## Manage history
-Goals, cards and time<br>
+Goals, cards and time
+
 ![History](Demo/Images/History.png)
 ## Penalty feature
 ![Penalty](Demo/Images/Penalty.png)
+
+<center>End</center> 
