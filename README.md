@@ -7,7 +7,7 @@
 * OBS Studio binds data and updates immediately values from files then show on livestream platform.
 
 ![Flow](Demo/Images/Flow.png)
-# 🎬 Demo
+# 🎬 Demo images
 ## I/V. Manage match information
 * About names and colors of teams, location, pitch, referee,...
 
